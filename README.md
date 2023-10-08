@@ -7,7 +7,7 @@
 
 **🧙‍♂️ About Me:**
 - 👨‍💻 Aspiring Python wizard on a quest to conquer the digital realm! 💻✨
-- 🇩🇪 Learning German 📚🗣️ | Future Deutschland Developer 🇩🇪💼
+- 🇩🇪 Learning German 📚🗣️ | Future Developer 💼
 
 **🔧 Tech Toolbox:**
 - 💾 Python | JavaScript | HTML/CSS | Git
