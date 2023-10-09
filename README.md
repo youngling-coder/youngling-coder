@@ -10,7 +10,7 @@
 - 🇩🇪 Learning German 📚🗣️ | Future Developer 💼
 
 **🔧 Tech Toolbox:**
-- 💾 Python | JavaScript | HTML/CSS | Git
+- 💾 Python | SQLite | HTML/CSS | Git
 - 🐍 Pythonic spells to conjure software wonders! 🪄✨
 
 **💼 What's Brewing:**
