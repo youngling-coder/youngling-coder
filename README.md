@@ -4,6 +4,7 @@
 ### 👋 Hello, World! Welcome to my coding playground! 🚀
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/qt.png" alt="qt"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/github.png" alt="github"/>
+<a target="_blank" href="https://www.buymeacoffee.com/youngling.coder"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png" alt="external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo"/></a>
 
 **🧙‍♂️ About Me:**
 - 👨‍💻 Aspiring Python wizard on a quest to conquer the digital realm! 💻✨
