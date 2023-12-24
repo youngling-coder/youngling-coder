@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sql-steelblue?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javjsascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### About Me:
 - **Pythonist**
