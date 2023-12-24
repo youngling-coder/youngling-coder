@@ -2,15 +2,7 @@
 
 ## 👋 Hello, World! Welcome to my coding playground!
 ### 🔧 Tech toolbox
-![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/vscode-blueviolet?style=for-the-badge&logo=visualstudiocode)
-![Static Badge](https://img.shields.io/badge/flask-mediumblue?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/pyqt5-darkgreen?style=for-the-badge&logo=qt&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
-![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sql-steelblue?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/pyqt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 ### About Me:
 - **Pythonist**
