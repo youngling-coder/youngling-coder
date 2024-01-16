@@ -1,6 +1,6 @@
-![20231008_000043_0000](https://github.com/youngling-coder/youngling-coder/assets/142408709/17bef67e-764c-41b0-bec3-84e5902131ce)
+<!--![20231008_000043_0000](https://github.com/youngling-coder/youngling-coder/assets/142408709/17bef67e-764c-41b0-bec3-84e5902131ce)-->
+![github-header-image(1)](https://github.com/youngling-coder/youngling-coder/assets/142408709/5dfc4d09-2521-4d03-a30e-1e8443da1f71)
 
-# Hi, I'm Dmytro! 👋
 
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
@@ -8,21 +8,9 @@
 I am a Python Junior Developer interested in developing open-source projects and learning frameworks such as Django, Flask, PyQt5.
 
 ## 🛠 Skills
-
 Here're my technical skills:
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![PyQt5](https://img.shields.io/badge/pyqt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,postgres,sqlite,flask,qt,html,css,js,linux)](https://skillicons.dev)
 
 ## 🔗 Links
 
