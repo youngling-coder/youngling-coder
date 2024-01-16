@@ -1,7 +1,9 @@
-<!--![20231008_000043_0000](https://github.com/youngling-coder/youngling-coder/assets/142408709/17bef67e-764c-41b0-bec3-84e5902131ce)-->
 ![github-header-image(1)](https://github.com/youngling-coder/youngling-coder/assets/142408709/5dfc4d09-2521-4d03-a30e-1e8443da1f71)
 
+## ⏱ Wakatime statistics
+<img src="https://wakatime.com/share/@018cd0ac-8b59-4393-a078-0e976e6f5071/848ea830-c8fd-4eae-a286-096d0e8316e8.svg"></img>
 
+## 👨‍💻 GitHub statistics
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
