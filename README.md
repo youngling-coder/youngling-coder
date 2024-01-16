@@ -2,6 +2,7 @@
 
 # Hi, I'm Dmytro! 👋
 
+![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
 I am a Python Junior Developer interested in developing open-source projects and learning frameworks such as Django, Flask, PyQt5.
