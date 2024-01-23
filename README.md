@@ -7,7 +7,7 @@
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
-I am a Python Junior Developer interested in developing open-source projects and learning frameworks such as Django, Flask, PyQt5.
+I am a passionate Python Junior Developer interested in developing open-source projects and learning different frameworks such as Flask, PyQt5, Flet etc.
 
 ## 🛠 Skills
 Here're my technical skills:
@@ -20,5 +20,6 @@ Any questions? Contact Me!
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.github.io/)
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngling_coder/)
+[![leetcode](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/youngling.coder)
 [![email](https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sh.dmytro@protonmail.com/)
 [![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/youngling-coder/)
