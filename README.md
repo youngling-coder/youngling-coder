@@ -12,7 +12,7 @@ I am a passionate Python Junior Developer interested in developing open-source p
 ## 🛠 Skills
 Here're my technical skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,postgres,sqlite,flask,qt,html,css,js,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,postgres,sqlite,flask,qt,html,css,linux)](https://skillicons.dev)
 
 ## 🔗 Links
 
