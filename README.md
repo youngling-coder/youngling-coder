@@ -1,10 +1,8 @@
-![github-header-image(1)](https://github.com/youngling-coder/youngling-coder/assets/142408709/5dfc4d09-2521-4d03-a30e-1e8443da1f71)
-
 ## 👨‍💻 GitHub statistics
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
-I am a passionate Python Junior Developer interested in developing open-source projects and learning different frameworks such as Flask, PyQt5, Flet etc.
+I am a passionate Python Developer interested in developing open-source projects and learning different frameworks such as Flask, PyQt5, Flet etc.
 
 ## 🛠 Skills
 Here're my technical skills:
@@ -28,7 +26,7 @@ Here're my technical skills:
 
 Any questions? Contact Me!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.github.io/)
+[![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.github.io/)
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngling_coder/)
 [![leetcode](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/youngling.coder)
 [![email](https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:shyrokov.dmytro@proton.me/)
