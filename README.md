@@ -2,7 +2,7 @@
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
-I am a passionate Python Developer interested in developing open-source projects and learning different frameworks such as Flask, PyQt5, Flet etc.
+I am a passionate Python Developer interested in developing open-source projects and learning different frameworks. I am interested in FastAPI, PyQt5, Flask.
 
 ## 🛠 Skills
 Here're my technical skills:
