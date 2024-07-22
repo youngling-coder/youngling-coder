@@ -2,14 +2,17 @@
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngling-coder&theme=github_dark)
 
 ## 🚀 About Me
-I am a passionate Python Developer interested in developing open-source projects and learning different frameworks. I am interested in FastAPI, PyQt5, Flask.
+I am a passionate Python Developer interested in developing open-source projects and learning different frameworks 😀
 
 ## 🛠 Skills
 Here're my technical skills:
 
-<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />          
+<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+          
+<img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
@@ -20,6 +23,7 @@ Here're my technical skills:
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
           
+<br/>
 <br/>
 
 ## 🔗 Links
