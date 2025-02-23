@@ -28,7 +28,7 @@ Here're my technical skills:
 
 Any questions? Contact Me!
 
-[![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.github.io/)
+[![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.top/)
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngling_coder/)
 [![leetcode](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/youngling.coder)
 [![email](https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:shyrokov.dmytro@proton.me/)
